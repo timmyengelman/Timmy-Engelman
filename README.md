@@ -6,10 +6,9 @@ A responsive and visually engaging To-Do List web application that allows users 
 
 ## 🔧 Features
 
-- ✅ Add new tasks instantly
+- ✅ Add new tasks instantly with animations
 - 📝 Edit existing tasks inline
-- 🗑️ Delete tasks with animated removal
-- 💾 Tasks saved with browser **localStorage** (no data loss on refresh)
+- 🗑️ Delete tasks easily
 - 🎨 Aesthetic UI with colorful background and fluid animations
 
 ---
